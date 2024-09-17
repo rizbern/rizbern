@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @rizbern
+- 👀 I’m interested in object oriented programming
+- 🌱 I’m currently learning object oriented programming
+- 💞️ I’m looking to collaborate on object oriented programming projects
+- 📫 How to reach me @programmerris@gmail.com
+- 😄 Pronouns: He/Him
